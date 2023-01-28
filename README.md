@@ -61,5 +61,25 @@ Watch on youtube:-
 [Dataset.csv](https://github.com/vidnesharma20/Spark-foundation-Task/blob/main/Task_3-SampleSuperstore.csv)
 
 
+[![AGPL License](https://img.shields.io/badge/EXPLORITY_DATA_ANALYSIS_[TERRORISM]-LEVEL_INTERMEDIATE-GREEN.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+`Problem statement`
+
+
+
+
+ - As a security/defense analyst, try to find out the hot zone of terrorism.
+ - What all security issues and insights you can derive by EDA?
+
+
+Download dataset:-
+[Dataset.csv](https://bit.ly/2TK5Xn5)
+
+Watch on youtube:-
+[Dataset.csv](https://bit.ly/2TK5Xn5)
+
+
+
 
 
