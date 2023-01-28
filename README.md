@@ -21,3 +21,24 @@ Download dataset:-
 Watch on youtube:-
 [Dataset.csv](https://github.com/vidnesharma20/Spark-foundation-Task/blob/main/task%201.csv)
 
+
+[![AGPL License](https://img.shields.io/badge/PREDICTION_USING_UNSUPERVISED_ML-LEVEL_BEGINNER-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+`Problem statement`
+
+
+
+
+ - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+ 
+
+
+Download dataset:-
+[Dataset.csv](https://bit.ly/3kXTdox)
+
+Watch on youtube:-
+[Dataset.csv](https://bit.ly/3kXTdox)
+
+
+
