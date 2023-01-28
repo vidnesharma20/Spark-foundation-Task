@@ -80,6 +80,27 @@ Watch on youtube:-
 [Dataset.csv](https://bit.ly/2TK5Xn5)
 
 
+[![AGPL License](https://img.shields.io/badge/PREDICATION_USING_DECISION_TREE_ALGORITHM_[TERRORISM]-LEVEL_INTERMEDIATE-red.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+`Problem statement`
+
+
+
+
+ - Create the Decision Tree classifier and visualize it graphically.
+ - The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
+
+Download dataset:-
+[Dataset.csv](https://github.com/vidnesharma20/Spark-foundation-Task/blob/main/Task_5Iris.csv)
+
+Watch on youtube:-
+[Dataset.csv](https://github.com/vidnesharma20/Spark-foundation-Task/blob/main/Task_5Iris.csv)
+
+
+
+
 
 
 
