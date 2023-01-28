@@ -99,6 +99,11 @@ Watch on youtube:-
 [Dataset.csv](https://github.com/vidnesharma20/Spark-foundation-Task/blob/main/Task_5Iris.csv)
 
 
+## 🔗 Links
+connect me !
+
+[![portfolio](https://img.shields.io/badge/Youtube-840000?style=for-the-badge&logo=youtube&logoColor=red)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidnesh-sharma-875755207/)
 
 
 
