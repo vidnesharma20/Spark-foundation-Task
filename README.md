@@ -19,7 +19,7 @@ Download dataset:-
 [Dataset.csv](https://github.com/vidnesharma20/Spark-foundation-Task/blob/main/task%201.csv)
 
 Watch on youtube:-
-[Watch Video](https://www.youtube.com/watch?v=yQjoaUEZD1g)
+[Watch video](https://www.youtube.com/watch?v=yQjoaUEZD1g)
 
 
 [![AGPL License](https://img.shields.io/badge/PREDICTION_USING_UNSUPERVISED_ML-LEVEL_BEGINNER-Green.svg)](http://www.gnu.org/licenses/agpl-3.0)
@@ -38,7 +38,7 @@ Download dataset:-
 [Dataset.csv](https://bit.ly/3kXTdox)
 
 Watch on youtube:-
-[Dataset.csv](https://bit.ly/3kXTdox)
+[Watch video](https://youtu.be/whF657Bsbuw)
 
 
 [![AGPL License](https://img.shields.io/badge/EXPLORITY_DATA_ANALYSIS_[RETAIL]-LEVEL_BEGINNER-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
@@ -58,7 +58,7 @@ Download dataset:-
 [Dataset.csv](https://github.com/vidnesharma20/Spark-foundation-Task/blob/main/Task_3-SampleSuperstore.csv)
 
 Watch on youtube:-
-[Dataset.csv](https://github.com/vidnesharma20/Spark-foundation-Task/blob/main/Task_3-SampleSuperstore.csv)
+[Watch video](https://youtu.be/tJTE-nCzKTA)
 
 
 [![AGPL License](https://img.shields.io/badge/EXPLORITY_DATA_ANALYSIS_[TERRORISM]-LEVEL_INTERMEDIATE-GREEN.svg)](http://www.gnu.org/licenses/agpl-3.0)
@@ -77,7 +77,7 @@ Download dataset:-
 [Dataset.csv](https://bit.ly/2TK5Xn5)
 
 Watch on youtube:-
-[Dataset.csv](https://bit.ly/2TK5Xn5)
+[Watch video](https://youtu.be/jKFElGQ5WFc)
 
 
 [![AGPL License](https://img.shields.io/badge/PREDICATION_USING_DECISION_TREE_ALGORITHM_[TERRORISM]-LEVEL_INTERMEDIATE-red.svg)](http://www.gnu.org/licenses/agpl-3.0)
@@ -96,7 +96,7 @@ Download dataset:-
 [Dataset.csv](https://github.com/vidnesharma20/Spark-foundation-Task/blob/main/Task_5Iris.csv)
 
 Watch on youtube:-
-[Dataset.csv](https://github.com/vidnesharma20/Spark-foundation-Task/blob/main/Task_5Iris.csv)
+[Watch video](https://youtu.be/MxO1lke5uXg)
 
 
 ## 🔗 Links
